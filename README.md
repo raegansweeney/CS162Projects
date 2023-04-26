@@ -1,2 +1,2 @@
 # CS162Project
-# Check projects tab for most recent work
+# Check projects branch for most recent work
